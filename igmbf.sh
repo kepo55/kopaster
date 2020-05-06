@@ -1,5 +1,5 @@
 #!/bin/bash
-#author Mr Bell
+#author Mr.g4l4n9
 
 
 #color(bold)
@@ -25,9 +25,9 @@ echo   "        █████████          "
 echo   "          ██ ██            "  
 echo   ""
 echo   " ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●   "   
-echo   "     DRAGON XPLOITER          "   
+echo   "     Cat XPLOITER          "   
 echo   " ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●   "    
-echo   "          JUNA              "    
+echo   "          Galang              "    
 echo   " ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●   "   
 
 #dependencies
